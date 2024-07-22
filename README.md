@@ -5,8 +5,8 @@ My name is Kirill, I am 20 years old. currently residing in Girona, Spain
 ## About Me
 
 ✨ Creating random weird things because I like it
-✨ Love Aviation and Flight Simulators
+✨ Interests: Technology, aviation and flight simulators, music
 
-## My projects that are not here on the GitHub
+## My projects that are not here on GitHub
 - [Descrollify — Limit Your YouTube Shorts Watchtime - A browser extension](https://chromewebstore.google.com/detail/descrollify-%E2%80%94-limit-your/lbfjchdoagpdcocffgdgpeemncgamlif?authuser=0&hl=en-GB&ref=producthunt)
 - [X-Plane (Flight Simulator) Realistic Airplane Model of the Cessna P337G](https://forums.x-plane.org/index.php?/forums/topic/285991-new-version-11-for-cessna-t337g-skymaster-coming-soon-cargopod-new-menu-3d-pilots-and-more/)
