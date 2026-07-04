@@ -4,7 +4,7 @@ My name is Kirill. Currently residing in Girona, Spain
 
 ## About Me
 
-✨ Creating random weird things because I like it
+✨ Creating random things because I like it
 ✨ Interests: Technology, aviation and flight simulators, music
 
 ## My projects
