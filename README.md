@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-My name is Kirill. Currently residing in Girona, Spain
+My name is Kirill. Currently residing in Spain
 
 ## About Me
 
